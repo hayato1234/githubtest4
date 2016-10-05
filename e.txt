@@ -4,3 +4,9 @@ Plants have:
 tomatoes
 avocado
 edamame
+peppers
+
+-outside
+onions
+mango
+basil
